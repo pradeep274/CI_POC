@@ -1,0 +1,9 @@
+!define TEST_SYSTEM {slim}
+!path FitNesseRoot/FrontPage/Average
+
+!|Average_of_vehicles|
+|cycle|bus|train|plane|getAvg?|
+|1|2|11|2|4.0|
+|10|10|40|10|35.0|
+|1|1|1|1|1.0|
+|4|4|4|5|4.0|
